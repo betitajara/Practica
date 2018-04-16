@@ -30,5 +30,5 @@ Trabajo realizado de forma individual por Beatriz Elena Jaramillo Gallego.
 
 <div style="width: 100%; clear: both;">
 <div style="float: left; width: 50%;">
-<img src="https://github.com/betitajara/Practica/blob/master/ibex35.PNG", align="left">
+<img src="https://github.com/betitajara/Practica/blob/master/ibex35.PNG", align="center">
 </div>
