@@ -27,3 +27,8 @@ Trabajo realizado de forma individual por Beatriz Elena Jaramillo Gallego.
   - Var (%): Variación en porcentaje
   - Máx: Valor máximo que ha llegado el indice en el transcurso del día	
   - Mín: Valor mínimo que ha llegado el indice en el transcurso del día	
+
+<div style="width: 100%; clear: both;">
+<div style="float: left; width: 50%;">
+<img src="https://github.com/betitajara/Practica/blob/master/ibex35.PNG", align="left">
+</div>
