@@ -21,14 +21,22 @@ relevantes por un proyecto analítico y usar las herramientas de extracción de 
 Trabajo realizado de forma individual por Beatriz Elena Jaramillo Gallego.
 
 ### Las variables extraidas son: 
-  - Fecha: Dia de la medición del indice
-  - Cierre: Valor en euros en el momento del cierre de la jornada.
-  - Var (€): Variación en euros
-  - Var (%): Variación en porcentaje
-  - Máx: Valor máximo que ha llegado el indice en el transcurso del día	
-  - Mín: Valor mínimo que ha llegado el indice en el transcurso del día	
+- Fecha: Dia de la medición del indice
+- Cierre: Valor en euros en el momento del cierre de la jornada.
+- Var (€): Variación en euros
+- Var (%): Variación en porcentaje
+- Máx: Valor máximo que ha llegado el indice en el transcurso del día	
+- Mín: Valor mínimo que ha llegado el indice en el transcurso del día	
 
 <div style="width: 100%; clear: both;">
 <div style="float: left; width: 50%;">
 <img src="https://github.com/betitajara/Practica/blob/master/ibex35.PNG", align="center">
 </div>
+
+
+### Ficheros
+
+- betitajara_PRAC1.py: Código con el que se genera el dataset en Python, para los que no tienen instalado Anaconda
+- betitajara_PRAC1.ipynb: Código con el que se genera el dataset Jupiter Anaconda (Python) con las salidas pertinentes al correr el script
+- betitajara_PRAC1.pdf: Respuestas a las preguntas
+- data_Ibex.csv: Dataset en formato CSV
